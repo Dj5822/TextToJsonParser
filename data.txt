@@ -1,0 +1,251 @@
+Title: The Demon King
+Name: Tyrannius Superbia
+Description: A ridiculously powerful being that rules over demonkind. If there is anyone that disobeys, they get squashed through pure strength. The Demon King’s orders are absolute. He is like the god of the demons. No one can go against him, and no one can harm him.
+Keywords: supreme, powerful, ruler, absolute, merciless
+
+Title: The Demon
+Name: Jin
+Description: A depressing looking man with empty eyes. He looks cold and expressionless on the outside, but his manner of speech is very humble and he treats everyone with extreme kindness. However, deep down, the demon is a being of pure evil. When it comes down to it, the demon will kill anything and everything without a change in expression. His goal is to cleanse the world of all kindness so that kind people won’t have to suffer. Basically, a completely insane lunatic with no emotions. His expression twists into that of a demon when he kills those that he loves.
+Keywords: grey, black, empty, hollow, justice, insanity
+
+Title: The King
+Name: Elphid Pentanium
+Description: The Demon King rules with strength, like a dictator. However, the people are loyal to the king because of his leadership qualities. He dreams of world peace and he dreams of uniting the world. He is someone that would do anything to protect his people.
+Keywords: hope, leader, energy, strength, loud, inspirational
+
+Title: The Traitor
+Name: Aragon Pentanium
+Description: He is the king’s younger brother. He claims that he will do anything to help his older brother. Obviously, that’s all a lie, and he is plotting to kill his own brother.
+
+Title: The Red Dragon
+Name: Ruinterror
+Description: An ancient, but lazy being. She is extremely powerful. Basically a good for nothing that likes to sleep all day.
+Keywords: destruction, death, annihilation, ruin, terror 
+
+Title: The Black Dragon
+Name: Gaiadreath
+Description: A black dragon. Out of all the dragons, Gaiadreath is the most reclusive. He is famous for slaying an ancient titan named Gaia, as well as the dragon king Paradreath. Thus, people call him Gaiadreath. Some people refer to him as the Titan slayer, or the Dragon that slays Dragons.
+
+Title: The Clown
+Name: Steve Camber
+Description: He appears to be a typical male, around 175cm. Has black hair and grey eyes. In the beginning he was a kind hearted man. However, due to certain developments, currently he is a hypocrite and has a two-sided personality. He finds social interaction annoying when he is around people, yet he feels lonely when he is alone. Deep down, he is a fairly selfish and calculative person. Yet he also feels guilty when he takes advantage of other people. In other words, he is always conflicted with his decisions. You could say that he is an indecisive person. His ability is to sacrifice sanity for strength. To save all the things that he values, will he have to completely lose himself? 
+
+Title: The Hero
+Name: Mayne Karakta
+Description: A being that has the destiny of defeating the Demon King. Mayne was born into a typical middle class family. He was born as a male, with exceedingly typical constitution. He had a typical life, with parents that made quite a decent amount of money. He was so ordinary, that it was difficult to think of him as a main character, but rather, a side character among side characters. He did not have any dreams or aspirations. He did not have much of an exciting life, nor a hard life, or an interesting life. His life was just ordinary. Perhaps because of this ordinariness, he seeked works of fiction in which the characters would have interesting lives. Mayne craved for something interesting to happen in his life. He himself wanted to be a main character like his name suggested. It was only until he was sent into the pits of hell known as ‘Hobo City’ did Mayne realise his foolishness. That in fact, the interesting life that he desired came at the price of a huge sacrifice. Endless pain, suffering, torment beyond measure, hope that was crushed at final moments… 
+
+Title: The Priest
+Name: Simeria Lockheart
+Description: A big chested, clumsy woman. She is very kind hearted, however she is often scammed and taken advantage of.
+
+Title: The Sage
+Name: Alphesia Vermont
+Description: An old man that has lived for a very long time. He seems to know a lot and he seems very wise. He travels the world and observes things that happen without trying to intervene. He seems to be semi-corporeal due to unknown reasons. He goes by the titles of ‘The Great Sage of Origins’, ‘Master Sage of Eldermist’, ‘Old man of 999 Lives’, ‘Cofounder of the Paladin Order’, and ‘The Phantom Sage’. He has messy, overgrown hair, and an extremely long, unkept beard. His hair is grey and his eyes look completely dead and empty, like that of a dead fish. He always wears old rags. He rarely ever does anything other than meditate, sleep, or gaze up at the sky. Sometimes he takes in a disciple to teach the nature of the world, but he usually just lives in seclusion, with god knows what purpose. Known to be extremely lazy. It is impossible to get the man to do anything, he just decides whatever on a whim and does whatever he wants. Legends say that Alphesia Vermont was the first to climb to the top of Eldermist. At a young age, he was talented at meditation, but was also extremely lazy at times. He established an academy for sages and mages situated in Eldermist. The academy he created is now known as the greatest in the world in almost every field. Currently, he is the longest living human in existence, and his lifespan even exceeds that of many semi-immortal monsters. He is so idle that even existence has almost forgotten about him, causing him to be semi-corporeal. He hasn’t been spotted for over a thousand years, so many believe he is dead. Alphesia is known to specialise in at least immortality, presence, and efficiency magic. It is difficult to damage Alphesia, as his existence is semi-corporeal, thus physical attacks just pass through him. Alphesia’s vitality and regenerative abilities are god level anyway, so any physical damage would just get fixed up immediately. Legends say that he can regenerate from a drop of blood. Alphesia has no presence, no aura, no killing intent, and is so idle that even the world sometimes forgets that he is supposed to exist. Because of this, he is invisible to most beings unless they have very high levels of perception, or if Alphesia decides to release his presence (which he almost never does). Alpheisa’s combat ability is a very big mystery. He rarely ever fights with anyone, and rarely does anyone even know that he exists. He can also nullify most high tier magic by reducing their efficiency, and can decrease the cast time and power of his by increasing the efficiency. However, he has a weakness. His existence defies fate so the world naturally creates situations in which he has to die if he reveals his presence. It’s as if the world hates him. Because he has avoided the fate of death so many times, disasters and misfortunes follow him wherever he goes. Many say he is cursed because of this.
+Quotes: 
+“Don’t expect this old man to do anything. You young ones have much more vigor and energy than me.”
+“I’m just an old man waiting for his death.”
+“You fool….”
+“Asinine, truly asinine...”
+“Magic is simply the art of deception. To fool the reality, you must first fool others, then fool yourself, and then fool the world itself.”
+Keywords: old, wise, ancient, knowledge
+
+Title: The Crazy Hobo
+Name: Frank
+Description: A crazy hobo that likes to smile. An extremely strange old man. He is almost always drunk and lying down somewhere in the streets. He is actually extremely strong, but he lets himself get beat up for no particular reason.
+
+Title: The Headmaster
+Name: Galvador Arcadios
+Description: The principle of a famous magic academy. He is a renowned scholar and a famous magician.
+
+Title: The Angel
+Name: Skyris Eversoul
+Description: A cold, expressionless woman. She is completely loyal to the War God. Although it seems like she has no emotions on the outside, she actually likes to help people. She has sky blue eyes and hair, as well as pure white armor.
+Keywords: loyal, cold
+
+Title: The Alien
+Name: Micheal Zuckerman
+Description: Disguised as a human male. The alien works as a magician and a scientist. The alien’s goal is to return to his homeland by researching things.
+
+Title: The Twofaced Magician
+Name: Wilson Riencard
+Description: A renowned magician that is kind and helpful on the outside, but cruel and merciless on the inside. 
+Keywords: false innocence, cruel, old
+
+Title: The Legendary Wizard
+Name: Grendel
+Description: A famous character that appears throughout legends and stories. Legends say he died while fighting an evil dragon in battle, but the truth is he went crazy and killed himself.
+
+Title: The Efficient Scientist
+Name: Amber Endelstein
+Description: Her ultimate goal is to obtain knowledge. She doesn’t mind using any method to achieve her goals. Morals don’t have any meaning to her. She will use the most efficient method, regardless of good or evil.
+
+Title: The Mad Scientist
+Name: Jackson Creed
+Description: He has messy silver hair and always goes around wearing a lab coat. He usually hangs a set of goggles on his neck. He has the eyes of someone who has long gone past the point of sanity. He is completely unpredictable. Has mood swings all the time. Sometimes he is as kind as an angel, other times he is as cruel as a devil. He occasionally laughs madly. He does not care much for morals and norms, as long as it can get him the truth of the world. An eccentric scientist who was a researcher in Maxwell’s lab. He was exiled due to his research on human brains, as well as his dabblings in forbidden magic. Jackson set up his own research centre by inventing and selling weapons to other countries. He lives reclusively underground and researches extremely strange things. Jackson has very high intelligence and creativity. He is adept at creating weapons of mass destruction and has a very high understanding of the world. He himself has a frail body and a weak physique, with very little magic talent. But his inventions are extremely dangerous. 
+Quotes:
+“He he he…. Muhahahahaha! Muhahaha!“
+“This is it! After 3 days without sleep I’ve finally solved the damned problem!”
+“Morals? Principles? Honor? Glory? Those useless shackles won’t stop me from discovering the truth!”
+
+Title: The King of Hobos
+Name: Lea
+Description: A wild woman with hair that resembles a lion’s mane. She is highly violent, but trusted by her underlings.
+
+Title: The Demon Hunter
+Name: Reena Vindictus
+Description: Demons are terrifying. However, if there is one thing that is more terrifying, it would be the one that hunts demons. The demon hunter is a woman that will do anything and everything to slay demons. Typically, she is completely emotionless. However, when slaying demons, she has a smile that is wide enough to rip through her face and her face becomes completely flushed, as if she is intoxicated. Basically, when she starts killing demons she feels emotions that are stronger than any drug in the world.
+
+Title: The Blacksmith
+Name: Dimitrius Catastrophe
+Description: He is typically clad in full plate armour that seems to be alive. The armour releases steam and heat, as if it is some sort of ancient creature. Legends say that the armour was crafted from the flesh of multiple godbeasts. His skin and flesh is completely covered in darkness, just everyone else in the Shadow race. He has red eyes. He is considered middle aged for one of the Shadow races. He usually exudes a disinterested demenoir. However, when weapons get involved, he gets extremely passionate. He was born and raised in the Shadowlands. He liked weapons as a child and would collect them. He liked weapons so much that it became his obsession. He would create weapons all day, maintain and upgrade weapons, as well as trade weapons. Eventually, he left the Shadow World to search for more weapons. Dimitrius is known as one of the greatest blacksmiths in existence. The ultimate goal is to find the ‘Forgotten Blade’. He typically spends his time looking for weapons and weapon materials, as well as spending time crafting and studying weapons. He specialises in creation magic and is competent in spatial storage. Possesses a very large collection of unique weapons, ranging from assault rifles, fighter jets, to mystical blades that can cut through space itself. Just like others in the Shadow race, his flesh is able to blend into the shadows
+Quotes:
+“Hmm… That’s a fine weapon you have there. May I take a look at that?”.
+“What kind of weapon should I craft next?”
+“Your weapon is like the extension of your soul. Treat it with care.”
+
+Title: The Time Traveller
+Name: Chronos Catastrophe
+Description: His skin and flesh is completely covered in darkness, just everyone else in the Shadow race. He has orange eyes. He goes around naked, which allows him to blend into the shadows. Despite being cold and mysterious, he cares greatly for the Shadow race. He is the creator of the Shadowrealm and the true culprit of “The Anomalous”. He is the first ancestor of the Shadow Race. Due to going forward and backwards in time multiple times his body has broken down and withered to that of an old man. Time seems to flow in a strange way when you are near him. He typically spends his time in an artificial dimension, doing various things such as researching time and space magic.He specialises in creation, space, and time magic. He can open gates to other worlds and can manipulate time with the appropriate cost. 
+Quotes:
+“Time is only an illusion”.
+“Perhaps I’m not meant to exist...”
+
+Title: The One Who Sees All
+Name: Lavius Phantomosia
+Description: Her body and her eyes are covered in bandages, there are shackles that are locked onto her neck, hands and legs, with chains that seem to exude a mystical ambience. She has platinum coloured hair that looks almost white. She also has pale skin. The reason for her appearance is in order to block her senses, because all five of her senses are much too strong, she needs to seal them with magical items in order to cope with daily life. Despite all the seals, she is still very sensitive. Once she releases all her seals, she is able to see things which can not normally be seen. She can even peer into the future and the past, however she is unable to affect the future and the past. She has a serious personality. She doesn’t like fooling around. She mainly spends her time trying to find the truth of reality by releasing her shackles and feeling the world. Born in Valkyrie Island, she was thought to be defective as she did not behave like a normal baby would. Her mother quickly realised the problem was because of her extremely strong perception, so she sealed her up with many mystical items. As a child, Lavis trained to become a combat Valkyrie. Among all her peers, she seemed to be exceptionally good at magic. But due to all the strange chains and bandages around her body, she did not really fit in well with the other valkyries. She served as a combat valkyrie for a couple of years, but as time went by, her perception increased in power, so she decided to leave Valkyrie Island to travel the world in search of mystical items that can seal up magic power and perception. After 20 years of searching, her body was covered in all manner of god binding chains and mystical relics that could seal even the strongest of beings, but her perception only got stronger as it adapted. Eventually, she settled in Eldermist for 20 years and mastered the arts of controlling and calming down her innate magic ability, allowing her to rein in her perception. Rumor has it that she was the disciple of the Master Sage of Eldermist himself. She then served as an active Paladin for about 30 years. She eventually retired and currently her location is unknown. She specialises in omniscience magic. In combat, she is able to see what the enemy does before they actually do it, and any changes that result from the changes of her actions can be seen, hence she is able to fully predict every move and react to every move in the best possible way. Since she is a demigod and a valkyrie, she has naturally high magic power and physical strength. Even without using any magic or her senses, she is able to overpower most other valkyries that are using magic due to her extensive combat knowledge and intuition. Normally, she stays within her tower located in Palador and observes the entire continent for any abnormalities.
+Quotes:
+“There are many truths as there are perspectives.”
+
+Title: The Maid
+Name: Clementine
+Description: The left side of her hair is pure white, and the right side pitch black. Her right eye is black and her left is light grey. Her skin is light. She typically wears a maid uniform. She has two horns growing out of her head, indicating that she is a demon. She is a highly disciplined maid. She exists to serve others and feels pleasure in helping people. Has legendary magic talent, enough to become a Demon Lord. However, due to side effects of excessive magic use, she went crazy. She ended up killing countless people and annihilating a country before regaining her sanity with the help of a mysterious person (Alphesia). She lives to repent for what she has done and she rarely ever uses magic. As a skilled magic user, she is able to use all 7 types of magic and their counterparts. This allows her to basically have a high lifespan, form spatial gates, create energy, and a bunch of other things. Of course, she also suffers the same drawbacks that talented magic users from (mental health issues). She particularly specialises in Yin and Yang magic, which she could use at birth. Yin and Yang magic is the only magic she can use completely safely. The reason for this is unknown.
+Quotes:
+“Would you like orange juice or tea?“
+“What should we have for dinner today?”
+“I exist to serve others. Nothing more.”
+
+Title: The Dream God - The Thing
+Name: Yu Miru
+Description: ’The Thing’ is an amalgamation of various different concepts. The Thing exists as long as dreams, desires, hopes, thoughts, and change exist within the world. The Thing is also known as the God of Dreams and Illusions and is known to be the god that oversees the continent of Artheogeus. The Thing’s gender is unknown, however people just use ‘her’ as a pronoun. She never appears in reality and only appears in dreams. It does not have a fixed physical form because it has the ability to polymorph into anything in existence. It can even polymorph into things that are not living, and even things that don’t exist in reality. She typically likes to polymorph into a child known as Yu Miru, however she likes to modify different parts of her body into different creatures when needed. She resembles a girl of about 7 years of age. She has bright, innocent eyes that are a mixture of blue, pink and purple. She always wears a light blue scarf and a white dress. She has white skin and white hair that seems to have a mix of pink and blue on the edges. Her appearance resembles a doll, or a ghost. She always has an expressionless face. She spends most of her time sleeping or staring up into space. She likes to fool around and do stupid things. Within dreams and illusions, she is omniscient and omnipotent. Outside of dreams and illusions, she is still able to manipulate reality through dreams and illusions.
+Abilities:
+Immortality (as long as dreams, desires, hopes, thoughts, and change exist)
+Control over dreams and illusions
+Perfect polymorph
+Ability to make living things fall asleep against their will
+Reality manipulation
+Quotes:
+“Cake. I want cake.”
+“Do you want to play a game?”
+“Dreams and reality… Hmm… I’m sleepy.”
+“Why can I manipulate reality you ask? Why wouldn’t I be able to? All changes that occur in reality are born from the seeds of dreams afterall.”
+“In the end, even reality is merely a sophisticated dream.” 
+“Get crushed by the weight of a thousand dreams! Mu ha ha ha! Heavy, isn’t it?”
+“It was all a dream… And they lived happily ever after. The end.”
+“Goodnight, and goodbye.”
+
+Title: The Death God - The Forgotten One
+Name: Al Shura
+Description: An existence that has the most perfect memory. He can remember anything and everything that has occurred, regardless of whether it occured in the past, present, or future. He remembers everything, even when the small wheel of time has reverted, he will remember everything. Even when the large wheel of time has reverted, he will still remember with absolute clarity. Even if an event occurs within a different world line, and even if the fabrics of time and space collapse, he is cursed to remember everything for all eternity. He is the only one that knows how many times existence has reset. The Forgotten One also has the ability to reset everything in reality to its original state with his memory intact, however this ability does not extend to dreams, as dreams may not necessarily be grounded to reality. He is also referred to as the god of life and death, as well as the manager of the dark continent of Nocternum. He looks like a boy that is roughly 7 years of age, however, his eyes empty and dead. The Forgotten One can not die as long as he is remembered by someone else. Since the Dream God remembers him, he is unable to die. And since he can reset dreams, he is unable to kill himself even if he wants to die. He has strange bags under his eyes, similar to that of a tired person. He normally wears raggy old clothing and a straw hat. He walks bare feet and carries a fishing rod. His hair is white like that of an old man. His smile is full of life and vigor, yet his body reeks of rot and decay. He likes to watch events unfold. He doesn’t like to interfere with the world, and likes to sit back and watch the show. He doesn’t like attracting attention and lives reclusively. He is like an empty shell of an existence. He usually spends all day fishing in the pond of life and death. He likes to travel the world and he is often seen fishing in some of the most dangerous areas of Arthea. He has an ominous aura. He is known to be completely indifferent to all things that occur. Regardless of whether the world is ending, he will still be fishing with a bored expression. He has the ability to devour souls and recreate souls. 
+Abilities:
+Immortality (as long as he is remembered by someone)
+Control over life and death (can flip life into death, and death into life)
+Perfect memory (immune to reality reset)
+Time control, rewind, and reset
+Quotes:
+“Why do I fish you ask? Well, fishing is quite relaxing.”
+“Souls each have a unique flavour you see.”
+“Life and death are just two sides of the same coin afterall.”
+“One day, even I will perish. It’s just that such a day is still far, far away…”
+
+Title: The War God - The Destroyer of Worlds
+Name: Elhive
+Description: The god of the sky continent of Myrinos. He is also known as the god of war. He can not die as long as there exists another ‘living creature’ other than himself. He has the ability to duplicate anything and everything. He was bored so he divided his power into 7 incarnations. Each of the seven incarnations roam the continent. All his incarnations have pitch black hair, and black eyes. They also have a cross shaped earring on one ear. The spear god is one of the incarnations and has tall height, black hair, and black eyes. He has a cross shaped earring in one ear and has a slender, yet muscular physique. Usually wears a navy blue coat, and brown boots. He is usually very clean. Typically has a bored expression and spends his time lazily. However, turns into a crazy maniac when it comes to battle. He is extremely arrogant. Elhive is one of the most powerful gods. However, he had a fatal flaw. He loved to fight too much. He loved the thrill of fighting so much that he would purposely seal his own strength, and made it difficult to release the seals, just so that fighting would become more enjoyable. He is known throughout history to appear in front of extremely talented fighters and give them advice. Almost everyone that Elhive has given advice to has ended up becoming a legendary figure with overwhelming combat strength that surpasses everyone in their generation. These talented fighters that are given Elhive’s divine blessings are known as Elhive’s apostles. The condition that Elhive’s apostles get for receiving divine blessings is that they need to fight one of Elhive’s incarnations seriously whenever Elhive asks. Elhive has casted multiple intricate seals onto himself such that he is completely unable to use any divine powers or skills relating to combat. He also has seals that limit his physical strength to that of a mortal. However, even after all these seals, he was still far too powerful because of this deep knowledge of combat. Thus, he split his consciousness into seven pieces and divided his memory into seven pieces. He then created seven incarnations that each had a piece of his memory. Each of these incarnations became masters of their field, and each became known as the sword god, spear god, bow god, rage god, mirage god, shield god and the world breaker. Elhive has seven incarnations that are each specialised in a weapon. All of these incarnations are known to have different appearances. All his incarnations have the same personality. Has a disinterested expression most of the time. He is obsessed with fighting strong opponents. If he finds a strong opponent, he will do everything to fight them. Similar to other individuals of the God Race, Elhive is incredibly bored and does not care about most things besides entertainment. To Elhive, facing strong opponents is entertainment. While one of Elhive’s incarnations is active, his other incarnations will be sleeping. Thus, each incarnation will only wake up from their slumber every few centuries or so. Each time an incarnation wakes up, they will go about searching for the most powerful fighters and challenge them. Although he is able to use magic, he only uses physical strength during fights and usually keeps magic sealed, saying that “it’s too boring” if magic is used. The currently active incarnation is the spear god. In terms of ability, no one can beat him when he swings his spear. Using his spear technique and godly strength he is able to rotate his spear fast enough to generate lift and fly in the air. Typically most opponents will get completely obliterated in one hit when he comes crashing down from the air at supersonic speed. Typically, he doesn’t use magic. In fact, Elhive has not used magic for so long that his magic is incredibly inefficient and also has a very high failure rate. Also his mana capacity is so high and mana control is so chaotic that magic that requires precise control will often go out of control. In other words, he can only do simple things with magic.
+Abilities:
+Immortality (as long as there exists a ‘living creature’)
+Space and time manipulation
+Amplification and sealing
+Duplication
+Quotes:
+“Enough talk, let’s fight.”
+“Weak. Weak. Weak. Too weak. Far too weak. Is this the current standard? If so, I’m severely disappointed.”
+“Perhaps one day I’ll meet a worthy challenger.”
+Sighs and shakes his head, “The current you is not my match. I can beat you one handed with my eyes closed. No, actually I can beat you with no hands. No, actually I can beat you with just my pinky finger.”
+“Wait, it will end too quickly if I fight like this. Hang on.” (discards his weapon and breaks both his arms). “Ah… Wait, maybe I should break my legs too?”
+
+Title: The Sealed Twin Gods
+Name: Exilus and Exilia
+Description: Exilus is the god of fates and Exilia is the god of contracts. Exilus and Exilia are twin gods. Exilia is male and Exilus is female. They were both in charge of the continent of Averania, until it was destroyed. Averania no longer exists and instead the land mass has been changed into a collection of islands known as Amoria. Both gods have been permanently sealed. They are known as the gods of fate and contracts. They both have hair that is green. Their eye colour is a golden colour. They are both dignified and noble gods. They cared greatly for humans and other humanoid creatures. They were gods who were the most loved by the humans of Arthea. Using their divine powers, they read the fate of the world and determined that a huge crisis would occur to Arthea. In order to combat that crisis, they formed a divine contract. They bet everything to save the continent, and failed. As a result, they lost everything. Not much is known about these gods besides the fact that they were permanently sealed as a result of the contract. Exilus can see into the future. All attacks can be completely predicted and threats can be eliminated before they even appear. She even has the ability to weave and manipulate the future and break the chains of fate. Exilia is able to do anything, as long as a sufficient price is paid in the form of a contract.
+Quotes:
+“We will not stand by and let Arthea get destroyed.”
+“As long as we live, we shall continue to fight.”
+“If there is life, there is hope.”
+
+Title: The Paladin Lord (Class Rep type)
+Name: Raynark Leonhard
+Description: A high ranking paladin that always follows the rules. He is a traditionalist and dislikes any changes. He dislikes chaotic people. He is highly competent and many people trust him.
+Before becoming a paladin lord, Raynark was a famous paladin that was good at completing missions extremely quickly and efficiently. He was always first in every exam that was given in the paladin academy, and was extremely talented. Raynark is someone that always follows the rules, and always does everything by the book. He is exceptionally skilled, however he is extremely inflexible and always follows traditions. He has grey hair and grey eyes.
+Keywords: straightforward, traditionalist, rule follower
+
+Title: The Paladin (Fox eyes)
+Name: Ernest Terentius
+Description: The friendly guy with a fake smile. He doesn’t have much combat power, but he is extremely intelligent. He is great at forming connections and he is great at information gathering. He is difficult to trust, but he always gets the job done. High ranking paladin. Has golden hair and gold eyes.
+
+Title: The Paladin Lord (The Lone Wolf) 
+Name: Ren Titanslayer
+Description: Loner and socially incompetent. A low ranking paladin, however he is extremely skilled. His combat power is off the charts and he is quite smart. The only problem is that he sucks at communicating. He basically never talks to anyone. He is the successor to the titan slayer clan. At a young age, he was renowned for slaying ancient monsters. At the time, he was the youngest ever person to become a paladin. Due to this, he was adopted into the titan slayer clan. Eventually, with his own skill, talents, and achievements, he became the clan successor and was eventually given the Titanslayer Paladin Lord seat from the clan lord. The Titanslayer has strong authority among the Paladin lords, since without the Titanslayer clan, it becomes much harder to defend fortresses against titans. He has a massive physique. Around 190cm tall and extremely muscular. However, compared to the previous Titanslayers, he is quite small. His main weapon is a massive sword that is around 3 meters in length and around half a meter in thickness. He has black hair. His left eye is scarred and was replaced with a special eye that glows red. His right eye is grey.
+
+Title: The Paladin (The Lazy guy)
+Name: Fenrir
+Description: Deadbeat and doesn’t do anything. He can win battles through instinct. A low ranking paladin. 
+He is a tall white haired young man with black eyes. Typically wears a black coat. Fenrir specialises in close combat.
+
+Title: The Paladin (The Loli) 
+Name: Lena
+Description: A quiet girl that likes eating. She is ridiculously strong and doesn’t talk much. A short blonde haired girl with blue eyes. Typically wears a white raincoat and a large backpack. Lena specialises in long range and support.
+
+Title: The Paladin (Dual Wielder)
+Name: Zac
+Description: Zac is a middle aged man with well kept brown hair and cleanly shaved face. He wears glasses. He wields two swords. One is a long thin sword, and the other is a large thick sword. 
+
+Title: The Paladin (The Man Beast)
+Name: Hector
+Description: An old man with countless scars on his body. He is larger than 2 meters. His entire body is covered in muscles that are abnormally large. The veins in Hector’s body pulse green due to various bodily modifications. His hair is white due to the stress of the modifications. He is famous for slaying monsters.
+
+Title: The Monster
+Name: Face Eater
+Description: Abominations have the ability to steal people’s faces. These creatures can switch faces at will, and can use some of the abilities that the victim originally had. “It was an abomination. A massive hulking pile of flesh. There were faces plastered on the abomination’s body. Looking closely, you could see that the faces were twisted in various expressions. Happiness, pain, terror, confusion, sadness. Some faces seemed to be twisted into expressions that couldn’t possibly be made. What was common among all the faces was that they were all missing their eyes, and bits of dried blood could be seen pouring out of every orifice on their faces.”
+“A villager was sitting under a tree. It had been a long day, so she couldn’t help dozing off. Her grey eyes slowly closed as she drifted to sleep. Suddenly, she could feel something bite into her face. She tried to scream and push that thing away, but to no avail. It felt like knives were stabbing into her face and ripping it off. All she could do was flail her arms and legs. Shortly after, her limbs went as stiff as a board. They had stopped moving. She was dead. On top of the fresh corpse, the Face Eater screeched in delight. It had obtained a new face. The Face Eater lifted it’s hand and it’s hand quickly morphed into a face that was frozen in an expression of despair. The eyes had lolled back and the mouth was wide open like a fish. A beautiful expression, the Face Eater thought. The hand then morphed into another face, this time it was that an black haired beauty. She had been a stern maid before she had her face eaten. Her teeth were clenched tightly and tears of blood were running down her face. The hand morphed again, this time into a blond haired princess. She had been a whiny spoiled child. Her face had a hint of confusion. She had died without knowing what happened. The Face Eater would eat any kind of face. It wasn’t picky; beggars couldn’t be choosers after all. But it liked the flesh of young women the most. The Face Eater’s hand morphed into various different faces. Each face was distorted into an unsightly expression. After admiring its collection for a while, it stopped what it was doing. It then proceeded to strip the corpse’s clothes. As for the meat, that was going to be stored for later. For now, the Face Eater wore the clothes that the corpse had been wearing. Unlike other Abominations, the Face Eater was intelligent. After consuming the face of its victim, the Face Eater disguised itself as the victim that it had just consumed. The Face Eater’s body quickly shifted into that of a young woman and after a brief while, its face twisted into the form of a villager.” There are monsters in this world that are horrifying beyond imagination. Sure there are plenty of monsters that merely eat humans because they need food. There are some that eat humans because they are tasty. But the most terrifying monsters are those that hunt and kill humans for fun. The Face Eater is a combination of all of these. It lies in wait, imitating humans for extended periods of time. A Face Eater can absorb all the memories of the person that it eats, so it can pretend to be that person that it ate without being found out. It can change it’s biology to be identical to a human, such that it behaves, and ages like a human. Some Face Eaters have been found to have imitated a person for years without anyone knowing. Just because a Face Eater relies on deception and patience to find prey doesn’t mean it is weak either. In combat, a face eater can morph into a killing machine. It can also use some of the abilities of the victims that it has consumed. 
+
+Title: The Heretic
+Name: Runeiut Kardia
+Description: A muscular man that has countless scars all over his body. He usually wears nothing but leather pants. He has white hair and a messy beard. Usually carries a large sword on one hand and a tattered grimoire in the other. Just like other demons, he has two black horns that grow on his head. A quiet and reserved person. He enjoys reading, as well as exploring the world. He roams the world. He is typically found roaming around danger zones by himself. He uses soul magic, dark magic, spell canceling, and null magic. The grimoire contains all sorts of forbidden spells. Very skilled with the sword as well. Typically doesn’t use spells in battle for some reason.
+Quotes:
+“God these monsters won’t shut up. Just die already.”
+“I’m not afraid of being a heretic, I’m afraid of being bound by meaningless things like honour and dignity.”
+Title: The Swordsman
+Name: El
+Description: El is named after the god of war, Elhive. He has black hair and golden eyes. El was a mortal human that had mediocre talent. Unlike other geniuses, he had to work many times harder to learn skills and techniques. But thanks to a special artifact that allowed him to train endlessly inside another realm, he was able to repeatedly develop his skills for an unknown amount of time. Combined with the El’s superhuman endurance, El was able to develop freakish skills that were basically impossible to perform for most mortals. Because of this, he is almost universally believed to be a complete monster, a complete anomaly that can not be explained with common sense. Afterall, a mere 27 year old human was stronger than ancient monsters that have lived for thousands of years. El spent most of his time in humanity's frontline. He is used as a trump card against threats that normal units couldn’t handle, such as ancient monsters. He is almost always busy, constantly handling quests with other legend tier paladins and adventures. It is said that without the El, humanity would have ceased to exist many times over. Due to his ridiculous strength, he was once known as the strongest human. At the time, El was clad in black armour and a red mantle. He used an ancient rusty sword as his weapon of choice. Legends say that the armour and spear are divine weapons that could even slay dragons and demon kings. Despite his immense fame, he is quite hard working. He cared about the world greatly. His magic was specialised towards lightning. He could move almost instantly across short distances. He typically relied heavily on speed to beat most enemies. Against enemies that were stronger than him, he relied on power diversion and counterattacks, effectively using the opponent’s strength against them. He developed methods of dodging attacks without relying on sight, and he developed superhuman battle intuition and instinct through experience. However, during the Great War that shattered the Averanian continent and caused two gods to get sealed, he lost his arm and crippled his mana veins after over exerting himself. Because of this, he ends up becoming a mysterious one armed sword teacher who has black long hair, a messy beard, and faded golden eyes. Typically just wears dull grey robes. He no longer carries a sword and doesn’t wear armour. He became a cold and depressed person after the war.
+Quotes:
+“They say that there is nothing more terrifying than a man that has nothing left to lose. If that is the case, then I guess I must be the scariest person out there.”
+“Fight. If your arms rip off, then use your feet. If your legs get destroyed, then use your teeth. If even your teeth fall off, then struggle with every remaining fibre of your existence. As long as there is a single functional muscle, a single fibre of your existence, a single thread of will, then you still have not lost.”
+“If there is a will, there is a way.”
+
+Title: The Assassin
+Name: Azima Edwards
+Description: Skilled in disguise and manipulation. He is able to make fake clones of his body to do business, and usually the clones will all have different appearances so as to make it extremely difficult to locate each clone. However, one problem is that the clones will eventually diverge and have different personalities. He is known in the underworld as ‘The Assassin of Many Faces’.
+
+Title: The Outcast
+Name: Philius
+Description: A magician with Eighth Grader Syndrome. He usually wears robes and carries around a staff. Has glasses and messy, unmaintained hair. Refers to others in a condescending manner, but is actually not a bad person. He is very socially awkward because of spending lots of time studying spells and magic. He is quite talented, however he likes to research obscure magic so his grades are not that amazing. He is very good at fire magic. He was exiled from his clan due to his strange tendencies.
+
+Title: The Witch
+Name: Witch girl
+Description: A beautiful girl that lives in a village. From a young age, she was extremely intelligent and had great talent for magic. Because of her talent, she was hunted down by various organisations. Some wanted her dead, some wanted to recruit her, some wanted to protect her. In the end, great talent is also a great calamity. The village that the girl lived in was destroyed due to conflict.
+
+Title: The Ghost
+Name: Ghosty
+Description: A heretical arcmage who lost his wife went crazy and tried to revive his wife. In the end, through countless sacrifices he was able to bind her soul to the physical world using forbidden magic. However, he was unable to fully revive her. The heretical arcmage soon died from the backlash of the forbidden magic, and the ghost was left unable to pass on.
+
+Title: The Vampire
+Name: Dalanox Vale
+Description: None
