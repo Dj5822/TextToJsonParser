@@ -29,11 +29,12 @@ const readData = (filePath: string): Character[] => {
 };
 
 function main() {
-  const charList: Character[] = readData("./data.txt");
+  const inputFilePath = "./data.txt";
+  const outputFilePath = "./output.json";
 
+  const charList: Character[] = readData(inputFilePath);
   console.log(charList);
-
-  fs.writeFileSync("./output.json", JSON.stringify(charList));
+  fs.writeFileSync(outputFilePath, JSON.stringify(charList));
 }
 
 main();
