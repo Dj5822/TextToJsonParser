@@ -10,7 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "firebase": "^9.5.0"
-  }
+  "dependencies": {}
 }
